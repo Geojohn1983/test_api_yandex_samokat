@@ -14,6 +14,3 @@ order_body = {
     ]
 }
 
-track_id = {
-    "t": ""
-}
